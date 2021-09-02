@@ -7,7 +7,7 @@ title: Projet 3 - Portfolio
 
 Méthodes possibles pour créer son portfolio:
 
-- site Cargo - https://cargo.site/Students
+- site Cargo - [https://cargo.site/Students](https://cargo.site/Students)
 - template Netlify
 - codé 100% main ✌️
 - WordPress ou autre CMS
