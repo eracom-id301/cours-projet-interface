@@ -3,7 +3,10 @@ layout: page
 title: Projet 3 - Portfolio
 ---
 
-# Projet 3 - Portfolio
+# Infos
+
+du 3 décembre au 14 janvier  
+(4 sessions / 12 périodes)
 
 Méthodes possibles pour créer son portfolio:
 

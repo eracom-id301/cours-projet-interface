@@ -3,7 +3,7 @@ layout: page
 title: Projet 1 - Site Responsive
 ---
 
-# Projet 1 - Site Responsive
+# Infos
 
 du 27 août au 17 septembre  
 (4 sessions / 12 périodes)
