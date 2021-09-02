@@ -8,6 +8,8 @@ title: Projet 3 - Portfolio
 du 3 décembre au 14 janvier  
 (4 sessions / 12 périodes)
 
+## Recommandations
+
 Méthodes possibles pour créer son portfolio:
 
 - site Cargo - [https://cargo.site/Students](https://cargo.site/Students)
