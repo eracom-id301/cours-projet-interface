@@ -17,6 +17,8 @@ Méthodes possibles pour créer son portfolio:
 - codé 100% main ✌️
 - WordPress ou autre CMS
 
+![Quelques modèles proposés par Cargo.](images/cargo-templates.jpg)
+
 ## Ressources
 
 Infos concernant les noms de domaine:
