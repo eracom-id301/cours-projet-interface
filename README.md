@@ -8,7 +8,8 @@ permalink: index.html
 
 Horaire: vendredi – 10h15 à 12h30.  
 Classe: ID301  
-Enseignant: Manuel Schmalstieg
+Enseignant: Manuel Schmalstieg  
+Lien: [https://eracom-id301.github.io/cours-projet-interface/](https://eracom-id301.github.io/cours-projet-interface/)
 
 ## Introduction
 
