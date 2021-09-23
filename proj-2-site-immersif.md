@@ -3,7 +3,7 @@ layout: page
 title: Projet 2 - Site immersif
 ---
 
-# Infos
+# Dates
 
 du 1er octobre au 19 novembre  
 (5 sessions / 15 périodes)
