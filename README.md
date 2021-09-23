@@ -28,7 +28,7 @@ Le cours s'articule autour de ces trois projets:
 du 27 août au 17 septembre  
 (4 sessions / 12 périodes)
 
-### Projet 2 - Site Immersif
+### [Projet 2 - Site Immersif](proj-2-site-immersif.md)
 
 du 1er octobre au 19 novembre  
 (5 sessions / 15 périodes)
