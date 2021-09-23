@@ -21,10 +21,9 @@ Quelques exemples de sites immersifs dans le domaine des objets technologiques:
 - [Oculus Quest 2](https://www.oculus.com/quest-2/)
 - [GoPro HERO10 Black](https://gopro.com/fr/fr/shop/cameras/hero10-black/CHDHX-101-master.html)
 
+## Contraintes
 
 Pour ce projet, vous travaillerez en groupes de deux, définis aléatoirement.
-
-## Contraintes
 
 Chaque binome choisit un objet / appareil, possédant plusieurs fonctionnalités.
 
@@ -37,9 +36,11 @@ Il doit s'agir d'un objet réel. L'objet peut être ancien ou contemporain. Vous
 Nous désignerons ces objets par le terme anglais "*device*".
 
 
-### Structure du site
+### Structure du site
 
-Chaque binôme développera une page, faisant partie d'un même site. Votre page devra comporter différentes sections (3 au minimum, 7 au maximum) présentant différents aspects de l'objet.
+Chaque binôme développera une page dédiée à son *device*, faisant partie d'un même site (intitulé "7 Devices"). Votre page devra comporter différentes sections (3 au minimum, 7 au maximum) présentant différents aspects de l'objet.
+
+Les textes devront être en anglais.
 
 ### Typographie
 
