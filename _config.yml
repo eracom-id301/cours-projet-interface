@@ -2,7 +2,8 @@ remote_theme: coursweb/jk-theme
 title: Projet interface
 description: Cours Projet Interface.
 lang: fr-FR
-# markdown: GFM
+robots: noindex, nofollow
+markdown: GFM
 # menu 
 chapters:
  - title: Cours Dev 2
