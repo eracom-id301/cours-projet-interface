@@ -25,3 +25,7 @@ Infos concernant les noms de domaine:
 
 - [Cours Web: Noms de domaine](https://cours-web.ch/divers/domaines.html).
 - Une [liste d'extensions](https://docs.google.com/spreadsheets/d/1orzB_c24-kh9nZUnYcOhmcXi8IcHGHipT5l6WAwKfLM/edit?usp=sharing) et de leur prix (tarifs Infomaniak).
+
+Exemples de sites porfolio:
+
+- *[10 amazing portfolios from Carnegie Mellon students](https://wf-blog-2021.webflow.io/blog/student-portfolio-examples)*, Webflow Blog.
