@@ -35,8 +35,8 @@ du 1er octobre au 19 novembre
 
 ### [Projet 3 - Portfolio](proj-3-portfolio.md)
 
-du 3 décembre au 14 janvier  
-(4 sessions / 12 périodes)
+du 9 décembre au 14 janvier  
+(3 sessions / 9 périodes)
 
 ## Visites et sorties
 

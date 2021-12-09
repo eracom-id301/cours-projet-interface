@@ -5,8 +5,8 @@ title: Projet 3 - Portfolio
 
 # Infos
 
-du 3 décembre au 14 janvier  
-(4 sessions / 12 périodes)
+du 9 décembre au 14 janvier  
+(3 sessions / 9 périodes)
 
 ## Recommandations
 
@@ -25,6 +25,10 @@ Infos concernant les noms de domaine:
 
 - [Cours Web: Noms de domaine](https://cours-web.ch/divers/domaines.html).
 - Une [liste d'extensions](https://docs.google.com/spreadsheets/d/1orzB_c24-kh9nZUnYcOhmcXi8IcHGHipT5l6WAwKfLM/edit?usp=sharing) et de leur prix (tarifs Infomaniak).
+
+Infos concernant cargo:
+- Guide d'utilisation: [https://support.cargo.site/](https://support.cargo.site/)
+- Cargo est [gratuit pour les étudiants](https://cargo.site/Students). Le code à utiliser pour publier votre site est transmis par Teams.
 
 Exemples de sites portfolio:
 
