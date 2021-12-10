@@ -6,9 +6,9 @@ title: Projet 3 - Portfolio - Brief
 
 # Infos Brief Portfolio
 
-**Durée du brief:** 
-du 9 décembre 2021 au 14 janvier 2022  
-(3 sessions / 9 périodes)
+**Durée du brief:** du 9 décembre 2021 au 14 janvier 2022  
+(3 sessions / 9 périodes)  
+**Rendu:** fin de la session du 14 janvier.
 
 Les objectifs de ce Brief:
 - apprendre à utiliser un CMS (Content Management System).
@@ -21,7 +21,7 @@ Les objectifs de ce Brief:
 3. Plusieurs images et une description pour chaque projet.
 4. Fournir un contexte pour chaque projet (projet réel / fictif / cadre scolaire, quel était le mandat, votre rôle dans le projet)
 5. Formats de fichier appropriés (pas de PNG quand un JPG est 2x plus léger).
-6. Bonne utilisation du CMS.
+6. Bonne utilisation du CMS (navigation, pied de page, etc).
 
 ## FAQ
 
@@ -31,4 +31,4 @@ Oui, mais uniquement si vous maîtrisez déjà bien ce CMS. Cargo a été choisi
 
 **Je n'ai pas encore nom de domaine!**
 
-Ce projet est l'occasion d'en acheter un. Le prix d'un .CH est actuellement de 4.90 CHF pour la première année (ensuite 8.85 / an) [chez Infomaniak](https://www.infomaniak.com/fr/domaines/tarifs#category1).
+Ce projet est l'occasion d'en acheter un. Le prix d'un .CH est actuellement de 4.90 CHF pour la première année (ensuite 8.85 / an) [chez Infomaniak](https://www.infomaniak.com/fr/domaines/tarifs#category1). Pour la procédure d'achat, Saloua ou Kita pourront vous renseigner.
