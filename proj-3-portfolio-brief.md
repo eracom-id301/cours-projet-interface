@@ -23,6 +23,21 @@ Les objectifs de ce Brief:
 5. Formats de fichier appropriés (pas de PNG quand un JPG est 2x plus léger).
 6. Bonne utilisation du CMS (navigation, pied de page, etc).
 
+Ces paramètres constituent les critères d'évaluation.
+
+## Déroulement des séances
+
+### Session du 17 décembre
+
+**Focus:** bien configurer le site - navigation, mise en page, choix graphiques (couleur, typo)...  
+Clarifier toute question liée à l'utilisation du "CMS".
+
+### Session du 14 janvier
+
+**Focus:** saisie des contenus, pour avoir une première version présentable.  
+Vous pourrez faire évoluer ce site par la suite, mais une base solide sera posée et vous pourrez entamer votre prospection.
+
+
 ## FAQ
 
 **Est-il autorisé d'utiliser un autre CMS (WordPress, Wix...)?**
