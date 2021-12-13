@@ -27,12 +27,12 @@ Ces paramètres constituent les critères d'évaluation.
 
 ## Déroulement des séances
 
-### Session du 17 décembre
+***Session du 17 décembre***
 
 **Focus:** bien configurer le site - navigation, mise en page, choix graphiques (couleur, typo)...  
 Clarifier toute question liée à l'utilisation du "CMS".
 
-### Session du 14 janvier
+***Session du 14 janvier***
 
 **Focus:** saisie des contenus, pour avoir une première version présentable.  
 Vous pourrez faire évoluer ce site par la suite, mais une base solide sera posée et vous pourrez entamer votre prospection.
