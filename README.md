@@ -33,7 +33,7 @@ du 27 août au 17 septembre
 du 1er octobre au 19 novembre  
 (5 sessions / 15 périodes)
 
-### [Projet 3 - Portfolio](proj-3-portfolio.md)
+### [Projet 3 - Portfolio](proj-3-portfolio-brief.md)
 
 du 9 décembre au 14 janvier  
 (3 sessions / 9 périodes)
